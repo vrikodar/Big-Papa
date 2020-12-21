@@ -15,13 +15,13 @@ Big-Papa Integrates Javascript and python for cookie stealing which then can be 
 
 `Note That you need to be man in the middle in order to inject the malicious javascript Code and then steal cookies of the website that the victim is currently visting`
 
-*You can use Bettercap in-order to become man-in-themiddle using bettercap or use arp spoof and then run Big-Papa to inject Javascrip*
+*You can use Bettercap in-order to become man-in-the-middle using bettercap or use arp spoof and then run Big-Papa to inject Javascript*
 
 # For HTTPS?
 
 `Big-Papa will work Perfectly against HTTP websites but For HTTPS you can use sslstrip to Downgrade it to HTTP and then utilize Big-Papa`
 
-*SSLstrip --> 
+*SSLstrip --> https://github.com/moxie0/sslstrip.git
 
 *Still some websites use HTTP and thus their data including Passwords can be read in Clear text but we need to steal cookies in some cases in order to Bypass 2-Factor-Authentication*
 
