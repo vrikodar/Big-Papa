@@ -1,8 +1,13 @@
+#By SxNade
+#https://github.com/SxNade
+#CONTRIBUTE
+
 import os
 import sys
 import time
 import subprocess
 from termcolor import colored
+#importing the required libraries
 
 golo = '''
 				 ______ _______ _______        ______ _______ ______ _______ 
@@ -26,6 +31,7 @@ time.sleep(1.5)
 print("BIG-PAPA V1.0-beta starting now....")
 time.sleep(2)
 
+#definig a function to run the main server
 def shoot():
 	if os.path.exists('bgp.js') == False:
 		print(colored("\n\n[f**k] Javscript File Not Found..exiting now!\n", "red", attrs=['bold']))
@@ -51,7 +57,10 @@ def shoot():
 				os.remove("Big_Papa.py")
 				os.remove("bgp.js")
 				print("\n\n[#]By piece of shit....!!")
+				
+#Defining the main function containing the shoot function
 def main():
 	shoot()
 
 main()
+#Finally running the main function to run the whole code..
