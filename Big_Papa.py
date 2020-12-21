@@ -42,6 +42,7 @@ def shoot():
 		time.sleep(2)
 		os.system("clear")
 		try:
+			print(golo)
 			print(colored("------<Server Online>-----", "green"))
 			print(colored("[#]Awaiting For Requests with cookies"))
 			subprocess.call("python -m SimpleHTTPServer 8080", shell=True)
