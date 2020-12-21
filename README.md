@@ -16,6 +16,10 @@ Big-Papa Integrates Javascript and python for cookie stealing which then can be 
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Big-Papa/main/cookies.png)
 
+`The Higlighted data is the cookie of ongoing admin session on a router(gateway)`
+
+*Now we can use something Like Burpsuite to Load the cookies and Hijack the admin session*
+
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
 ` 1 chmod +x install.sh`
