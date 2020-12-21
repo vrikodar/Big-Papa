@@ -29,7 +29,7 @@ Big-Papa Integrates Javascript and python for cookie stealing which then can be 
 
 # How Does it work?
 
-**Big-Papa utilizes malicious javascript code injection...and then making a GET Request(with cookies) to the Python Web server running on the attacker machine**
+**Big-Papa utilizes malicious javascript code injection...and then makes a GET Request(with cookies) to the Python Web server running on the attacker machine**
 
 
 
