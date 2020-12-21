@@ -7,6 +7,9 @@
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/SxNade)
 
 # Big-Papa
+
+![Capture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSYrMbk48SL1RSAc0mTiLG_iSZonM61eAUg&usqp=CAU)
+
 Big-Papa Integrates Javascript and python for cookie stealing which then can be used for session hijacking
 
 # How Does it work?
