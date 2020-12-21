@@ -44,7 +44,7 @@ Big-Papa Integrates Javascript and python for cookie stealing which then can be 
 `Full Code of Big-Papa will be released in 1-2 Days till now only the basic Javascript Code and Python Script is released`
 
 
-*You can manually perform the mitm attack and then inject the Javascript code with Big-Papa.py script runnnig along*
+*You can manually perform the mitm attack and then inject the Javascript code with Big-Papa.py script runnning along*
 
 
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
