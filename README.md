@@ -66,6 +66,7 @@ Big-Papa Integrates Javascript and python for cookie stealing which then can be 
 
 *You can manually perform the mitm attack and then inject the Javascript code with Big-Papa.py script runnning along*
 
+`A new feature to mail the captured cookies to user specified e-mail will be added soon...`
 
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Big-Papa Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
