@@ -21,7 +21,7 @@ Big-Papa Integrates Javascript and python for cookie stealing which then can be 
 `Note That you need to be man in the middle in order to inject the malicious javascript Code and then steal cookies of the website that the victim is currently visting`
 
 
-*`**For testing purposes copy the Javascript code from the bgp.js file without the script tags and execute in the console are in browser**`*
+*`For testing purposes copy the Javascript code from the bgp.js file without the script tags and execute in the console are in browser`*
 
 
 *You can use Bettercap in-order to become man-in-the-middle using bettercap or use arp spoof and then run Big-Papa to inject Javascript*
