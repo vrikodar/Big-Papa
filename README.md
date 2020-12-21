@@ -12,6 +12,15 @@
 
 Big-Papa Integrates Javascript and python for cookie stealing which then can be used for session hijacking
 
+
+
+# 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
+
+` 1 chmod +x install.sh`
+
+`2 ./install.sh`
+
+
 # How Does it work?
 
 **Big-Papa utilizes malicious javascript code injection...and then making a GET Request(with cookies) to the Python Web server running on the attacker machine**
