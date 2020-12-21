@@ -12,7 +12,9 @@
 
 Big-Papa Integrates Javascript and python for cookie stealing which then can be used for session hijacking
 
+# IN ACTION
 
+![Capture](https://raw.githubusercontent.com/SxNade/Big-Papa/main/cookies.png)
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
