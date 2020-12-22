@@ -65,8 +65,12 @@ Big-Papa Integrates Javascript and python for remote cookie stealing which then 
 
 # 𝕌ℙ𝔻𝔸𝕋𝔼
 
-`Full Code of Big-Papa will be released in 1-2 Days till now only the basic Javascript Code and Python Script is released`
+`There were problems with writing code for javscript injector due to ongoing problems with netfilterqueue installation`
 
+
+**BUT YOU CAN STILL USE BETTERCAP TO BECOME MAN IN THE MIDDLE AND ALSO INJECT JAVASCRIPT CODE**
+
+*Then you can run Big-Papa to capture cookies*
 
 *You can manually perform the mitm attack and then inject the Javascript code with Big-Papa.py script runnning along*
 
