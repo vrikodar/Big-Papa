@@ -68,7 +68,7 @@ Big-Papa Integrates Javascript and python for remote cookie stealing which then 
 `There were problems with writing code for javscript injector due to ongoing problems with netfilterqueue installation`
 
 
-**BUT YOU CAN STILL USE BETTERCAP TO BECOME MAN IN THE MIDDLE AND ALSO INJECT JAVASCRIPT CODE**
+**BUT YOU CAN STILL USE BETTERCAP TO BECOME MAN IN THE MIDDLE AND ALSO INJECT JAVASCRIPT CODE USING BETTERCAP**
 
 *Then you can run Big-Papa to capture cookies*
 
