@@ -51,6 +51,7 @@ def shoot():
 			ask = input(colored("\n\nDo you want to quit Big-Papa?...Y/N: ", "red", attrs=['bold']))
 			if ask == 'Y':
 				print("\n\n[+]Stopping Big-Papa....\n\n")
+				sys.exit(0)
 			elif ask == 'N':
 				pass
 			else:
