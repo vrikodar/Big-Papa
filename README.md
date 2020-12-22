@@ -70,6 +70,10 @@ Big-Papa Integrates Javascript and python for remote cookie stealing which then 
 
 **BUT YOU CAN STILL USE BETTERCAP TO BECOME MAN IN THE MIDDLE AND ALSO INJECT JAVASCRIPT CODE USING BETTERCAP**
 
+*INSTALL BETTERCAP AS FOLLOWS
+
+`sudo apt install bettercap`
+
 *Then you can run Big-Papa to capture cookies*
 
 *You can manually perform the mitm attack and then inject the Javascript code with Big-Papa.py script runnning along*
