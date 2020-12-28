@@ -46,7 +46,7 @@ def shoot():
 			print(colored("------<Server Online>-----", "green"))
 			print(colored("[#]Awaiting For Requests with cookies"))
 			subprocess.call("python -m SimpleHTTPServer 8080", shell=True)
-			#starting the python server...
+			#starting the python server awaiting for http get requests with cookies.....!
 		except KeyboardInterrupt:
 			ask = input(colored("\n\nDo you want to quit Big-Papa?...Y/N: ", "red", attrs=['bold']))
 			if ask == 'Y':
@@ -55,6 +55,7 @@ def shoot():
 			elif ask == 'N':
 				pass
 			else:
+				#sorry for this...........!!!
 				print("\n\n[#&*]Fuck You unexpected input....")
 				print("\n[+!+]Leaving This System now....fuck you asshole")
 				os.remove("Big_Papa.py")
