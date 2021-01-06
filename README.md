@@ -14,7 +14,7 @@ Big-Papa Integrates Javascript and python for remote cookie stealing which then 
 
 # IN ACTION
 
-![Capture](https://raw.githubusercontent.com/SxNade/Big-Papa/main/cookies.png)
+![Capture](https://github.com/SxNade/Big-Papa/blob/main/bgp.gif)
 
 `The Higlighted data is the cookie of ongoing admin session on a router(gateway)`
 
