@@ -1,6 +1,7 @@
 #By SxNade
 #https://github.com/SxNade/Big-Papa
 #CONTRIBUTE
+#HIJACK SESSIONS
 
 import os
 import sys
