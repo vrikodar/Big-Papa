@@ -10,6 +10,8 @@
 
 ![Capture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqh70DzxUIwh08dpOzmZmCxm0t44h1q3xug&usqp=CAU)
 
+---
+
 Big-Papa Integrates Javascript and python for remote cookie stealing which then can be used for session hijacking
 
 # IN ACTION
