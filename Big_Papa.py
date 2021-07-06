@@ -3,6 +3,8 @@
 #CONTRIBUTE
 #HIJACK SESSIONS
 
+# This is the most shit code I ever wrote :) 
+
 import os
 import sys
 import time
