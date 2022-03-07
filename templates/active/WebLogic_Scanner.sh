@@ -1,9 +1,0 @@
-AUTHOR='@xer0dayz'
-VULN_NAME='WebLogic Detected'
-URI='/console/login/LoginForm.jsp'
-METHOD='GET'
-MATCH='WebLogic'
-SEVERITY='P5 - INFO'
-CURL_OPTS="--user-agent '' -s -L --insecure"
-SECONDARY_COMMANDS=''
-GREP_OPTIONS='-i'

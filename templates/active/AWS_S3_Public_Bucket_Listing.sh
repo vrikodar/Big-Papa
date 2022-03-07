@@ -1,9 +1,0 @@
-AUTHOR='@xer0dayz'
-VULN_NAME='AWS S3 Public Bucket Listing'
-URI=''
-METHOD='GET'
-MATCH="listbucket"
-SEVERITY='P5 - INFO'
-CURL_OPTS="--user-agent '' -s -L --insecure"
-SECONDARY_COMMANDS=''
-GREP_OPTIONS='-i'

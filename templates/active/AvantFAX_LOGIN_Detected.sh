@@ -1,9 +1,0 @@
-AUTHOR='@xer0dayz'
-VULN_NAME='AvantFAX LOGIN Detected'
-URI=''
-METHOD='GET'
-MATCH="AvantFAX\ LOGIN"
-SEVERITY='P5 - INFO'
-CURL_OPTS="--user-agent '' -s -L --insecure"
-SECONDARY_COMMANDS=''
-GREP_OPTIONS='-i'

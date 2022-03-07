@@ -1,9 +1,0 @@
-AUTHOR='@xer0dayz'
-VULN_NAME='Joomla Version Disclosure'
-URI='/administrator/manifests/files/joomla.xml'
-METHOD='GET'
-MATCH="Joomla\ version\ "
-SEVERITY='P4 - LOW'
-CURL_OPTS="--user-agent '' -s -L --insecure"
-SECONDARY_COMMANDS=''
-GREP_OPTIONS='-i'

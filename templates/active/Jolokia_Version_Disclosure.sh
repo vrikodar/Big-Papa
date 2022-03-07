@@ -1,9 +1,0 @@
-AUTHOR='@xer0dayz'
-VULN_NAME='Jolokia Version Disclosure'
-URI='/jolokia/version'
-METHOD='GET'
-MATCH="\"agent\"\:"
-SEVERITY='P4 - LOW'
-CURL_OPTS="--user-agent '' -s -L --insecure"
-SECONDARY_COMMANDS=''
-GREP_OPTIONS='-i'
